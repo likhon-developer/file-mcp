@@ -1,5 +1,3 @@
-# file-mcp 
-
 # PostgreSQL MCP Server
 
 A Model Context Protocol (MCP) server that provides read-only access to PostgreSQL databases for AI assistants and other MCP clients.
