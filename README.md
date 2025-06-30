@@ -1,3 +1,14 @@
+#Filesystem MCP Server
+Node.js server implementing Model Context Protocol (MCP) for filesystem operations.
+
+Features
+Read/write files
+Create/list/delete directories
+Move files/directories
+Search files
+Get file metadata
+Note: The server will only allow operations within directories specified via args.
+
 # PostgreSQL MCP Server
 
 A Model Context Protocol (MCP) server that provides read-only access to PostgreSQL databases for AI assistants and other MCP clients.
